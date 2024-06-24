@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Заголовок окна веб-страницы </title>
+  </head>
+  <body>
+    <h1>Gasanov</h1>
+    <h2>adb2207</h2>
+    <h3>can i got some files about subject: business informatics</h3>
+    <h4>and else Industrial IOT</h4>
+    <h5>for only learning myself</h5>
+  </body>
+</html>
